@@ -8,12 +8,17 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Default_Material
-    second: {fileID: 2100000, guid: 670794b5a04a4c34eacb80f57460c87c, type: 2}
+    second: {fileID: 2100000, guid: 4b4fb42838672b249aea59f49a5de233, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: MAT_BodyBase
     second: {fileID: 2100000, guid: 0a51b58103b9b6342b69503ad6d6b191, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_Bolts
+    second: {fileID: 2100000, guid: 0118c1bf51ba3d3458bd3207629f51f9, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
