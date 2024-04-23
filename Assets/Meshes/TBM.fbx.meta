@@ -3,7 +3,52 @@ guid: b81b1f08fc7ded6409dee5eb74b49060
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_Material
+    second: {fileID: 2100000, guid: 670794b5a04a4c34eacb80f57460c87c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_BodyBase
+    second: {fileID: 2100000, guid: 0a51b58103b9b6342b69503ad6d6b191, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_Cutterhead
+    second: {fileID: 2100000, guid: 8930b30d79cd86a4eb6462ce037acfe2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_CutterheadBase
+    second: {fileID: 2100000, guid: 46fcc7de043b97146b246e6ca12e0fe1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_CutterheadBase_Trans
+    second: {fileID: 2100000, guid: f32b9cd41846da74583a19a423e1cd8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_Motor
+    second: {fileID: 2100000, guid: 4b16dd4bffe7cbe41b3104b67ad57f65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_Pipes
+    second: {fileID: 2100000, guid: 3eeb83c69ed62d546837844ae9fff201, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_Red
+    second: {fileID: 2100000, guid: 062d34e7eff7a2841a501425778e1567, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: standardSurface1
+    second: {fileID: 2100000, guid: 1a5dfa8293d5b5b49afe62c94e6dc848, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
