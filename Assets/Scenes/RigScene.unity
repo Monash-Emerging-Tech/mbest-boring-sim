@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 299639868}
-  m_IndirectSpecularColor: {r: 0.10333214, g: 0.07608308, b: 0.039952807, a: 1}
+  m_IndirectSpecularColor: {r: 0.2522572, g: 0.18573569, b: 0.097525865, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -175,6 +175,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Room
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0776d22577f1cfa43a9a687de10a4642, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 3469561672603626494, guid: 0776d22577f1cfa43a9a687de10a4642, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 5285927126667268888, guid: 0776d22577f1cfa43a9a687de10a4642, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -209,10 +221,6 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 323950963}
-  - {fileID: 1524931037}
-  - {fileID: 281656145}
-  - {fileID: 1649321810}
   - {fileID: 1394891855}
   - {fileID: 188137813}
   m_Father: {fileID: 1612098193}
@@ -232,7 +240,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4
   m_IsActive: 0
 --- !u!4 &100019185
 Transform:
@@ -328,6 +336,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 13b719afeb8343d4c9024a375cf67ded, type: 3}
       propertyPath: m_Name
       value: Cone_Damaged
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 13b719afeb8343d4c9024a375cf67ded, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -505,9 +517,33 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2289658749134674442, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: aff1c432e7952744a918788fc236356d, type: 3}
       propertyPath: m_Name
       value: Safety Rail (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 1356078575517738061, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142387358024287591, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 4463331676693928166, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 8521099289004111592, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -575,6 +611,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cone_Damaged (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 13b719afeb8343d4c9024a375cf67ded, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -633,9 +673,33 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2289658749134674442, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: aff1c432e7952744a918788fc236356d, type: 3}
       propertyPath: m_Name
       value: Safety Rail (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 1356078575517738061, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142387358024287591, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 4463331676693928166, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 8521099289004111592, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -748,129 +812,15 @@ PrefabInstance:
       propertyPath: m_Name
       value: Instructions
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 087360ff068e9df449bec635c40238e0, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 087360ff068e9df449bec635c40238e0, type: 3}
---- !u!1 &281656144
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 281656145}
-  - component: {fileID: 281656147}
-  - component: {fileID: 281656146}
-  m_Layer: 0
-  m_Name: Point Light (2)
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &281656145
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 281656144}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1, z: 16}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 70013030}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &281656146
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 281656144}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Version: 3
-  m_UsePipelineSettings: 1
-  m_AdditionalLightsShadowResolutionTier: 2
-  m_LightLayerMask: 1
-  m_RenderingLayers: 1
-  m_CustomShadowLayers: 0
-  m_ShadowLayerMask: 1
-  m_ShadowRenderingLayers: 1
-  m_LightCookieSize: {x: 1, y: 1}
-  m_LightCookieOffset: {x: 0, y: 0}
-  m_SoftShadowQuality: 0
---- !u!108 &281656147
-Light:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 281656144}
-  m_Enabled: 1
-  serializedVersion: 10
-  m_Type: 2
-  m_Shape: 0
-  m_Color: {r: 0.8117647, g: 0.8117647, b: 0.7411765, a: 1}
-  m_Intensity: 3
-  m_Range: 10
-  m_SpotAngle: 30
-  m_InnerSpotAngle: 21.80208
-  m_CookieSize: 10
-  m_Shadows:
-    m_Type: 0
-    m_Resolution: -1
-    m_CustomResolution: -1
-    m_Strength: 1
-    m_Bias: 0.05
-    m_NormalBias: 0.4
-    m_NearPlane: 0.2
-    m_CullingMatrixOverride:
-      e00: 1
-      e01: 0
-      e02: 0
-      e03: 0
-      e10: 0
-      e11: 1
-      e12: 0
-      e13: 0
-      e20: 0
-      e21: 0
-      e22: 1
-      e23: 0
-      e30: 0
-      e31: 0
-      e32: 0
-      e33: 1
-    m_UseCullingMatrixOverride: 0
-  m_Cookie: {fileID: 0}
-  m_DrawHalo: 0
-  m_Flare: {fileID: 0}
-  m_RenderMode: 0
-  m_CullingMask:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_RenderingLayerMask: 1
-  m_Lightmapping: 4
-  m_LightShadowCasterMode: 0
-  m_AreaSize: {x: 1, y: 1}
-  m_BounceIntensity: 1
-  m_ColorTemperature: 6570
-  m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
-  m_UseBoundingSphereOverride: 0
-  m_UseViewFrustumForShadowCasterCull: 1
-  m_ShadowRadius: 0
-  m_ShadowAngle: 0
 --- !u!1001 &286889051
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -919,9 +869,33 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2289658749134674442, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: aff1c432e7952744a918788fc236356d, type: 3}
       propertyPath: m_Name
       value: Safety Rail (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 1356078575517738061, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142387358024287591, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 4463331676693928166, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 8521099289004111592, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1051,124 +1025,6 @@ MonoBehaviour:
   m_LightCookieSize: {x: 1, y: 1}
   m_LightCookieOffset: {x: 0, y: 0}
   m_SoftShadowQuality: 0
---- !u!1 &323950962
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 323950963}
-  - component: {fileID: 323950965}
-  - component: {fileID: 323950964}
-  m_Layer: 0
-  m_Name: Point Light
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &323950963
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 323950962}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 3, z: 14}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 70013030}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &323950964
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 323950962}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Version: 3
-  m_UsePipelineSettings: 1
-  m_AdditionalLightsShadowResolutionTier: 2
-  m_LightLayerMask: 1
-  m_RenderingLayers: 1
-  m_CustomShadowLayers: 0
-  m_ShadowLayerMask: 1
-  m_ShadowRenderingLayers: 1
-  m_LightCookieSize: {x: 1, y: 1}
-  m_LightCookieOffset: {x: 0, y: 0}
-  m_SoftShadowQuality: 0
---- !u!108 &323950965
-Light:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 323950962}
-  m_Enabled: 1
-  serializedVersion: 10
-  m_Type: 2
-  m_Shape: 0
-  m_Color: {r: 0.8117647, g: 0.8117647, b: 0.7411765, a: 1}
-  m_Intensity: 5
-  m_Range: 20
-  m_SpotAngle: 30
-  m_InnerSpotAngle: 21.80208
-  m_CookieSize: 10
-  m_Shadows:
-    m_Type: 0
-    m_Resolution: -1
-    m_CustomResolution: -1
-    m_Strength: 1
-    m_Bias: 0.05
-    m_NormalBias: 0.4
-    m_NearPlane: 0.2
-    m_CullingMatrixOverride:
-      e00: 1
-      e01: 0
-      e02: 0
-      e03: 0
-      e10: 0
-      e11: 1
-      e12: 0
-      e13: 0
-      e20: 0
-      e21: 0
-      e22: 1
-      e23: 0
-      e30: 0
-      e31: 0
-      e32: 0
-      e33: 1
-    m_UseCullingMatrixOverride: 0
-  m_Cookie: {fileID: 0}
-  m_DrawHalo: 0
-  m_Flare: {fileID: 0}
-  m_RenderMode: 0
-  m_CullingMask:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_RenderingLayerMask: 1
-  m_Lightmapping: 4
-  m_LightShadowCasterMode: 0
-  m_AreaSize: {x: 1, y: 1}
-  m_BounceIntensity: 1
-  m_ColorTemperature: 6570
-  m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
-  m_UseBoundingSphereOverride: 0
-  m_UseViewFrustumForShadowCasterCull: 1
-  m_ShadowRadius: 0
-  m_ShadowAngle: 0
 --- !u!1 &327857851
 GameObject:
   m_ObjectHideFlags: 0
@@ -1275,7 +1131,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4
   m_IsActive: 1
 --- !u!4 &330259950
 Transform:
@@ -1286,7 +1142,7 @@ Transform:
   m_GameObject: {fileID: 330259949}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2, y: 0.49, z: 4}
+  m_LocalPosition: {x: -2, y: 0.496, z: 4}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -1406,7 +1262,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 68
   m_IsActive: 1
 --- !u!4 &358696389
 Transform:
@@ -1417,7 +1273,7 @@ Transform:
   m_GameObject: {fileID: 358696388}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -5.961163, y: 0.24, z: 0.9589553}
+  m_LocalPosition: {x: -5.961163, y: 0.273, z: 0.9589553}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -1454,7 +1310,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4
   m_IsActive: 1
 --- !u!4 &448970625
 Transform:
@@ -1780,6 +1636,75 @@ PrefabInstance:
       insertIndex: -1
       addedObject: {fileID: 1942460394}
   m_SourcePrefab: {fileID: 100100000, guid: b81b1f08fc7ded6409dee5eb74b49060, type: 3}
+--- !u!1001 &689664315
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -9037833034215845672, guid: 60ca98366204357408f7538c015fa8a3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: ea731e2141026ee4a8487ebdc79472d4, type: 2}
+    - target: {fileID: -8679921383154817045, guid: 60ca98366204357408f7538c015fa8a3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.97
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60ca98366204357408f7538c015fa8a3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60ca98366204357408f7538c015fa8a3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 28.776
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60ca98366204357408f7538c015fa8a3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60ca98366204357408f7538c015fa8a3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60ca98366204357408f7538c015fa8a3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60ca98366204357408f7538c015fa8a3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60ca98366204357408f7538c015fa8a3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60ca98366204357408f7538c015fa8a3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60ca98366204357408f7538c015fa8a3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 568699996458138181, guid: 60ca98366204357408f7538c015fa8a3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60ca98366204357408f7538c015fa8a3, type: 3}
+      propertyPath: m_Name
+      value: Bench
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60ca98366204357408f7538c015fa8a3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 60ca98366204357408f7538c015fa8a3, type: 3}
 --- !u!1 &767212599
 GameObject:
   m_ObjectHideFlags: 0
@@ -1794,7 +1719,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4
   m_IsActive: 1
 --- !u!4 &767212600
 Transform:
@@ -1907,6 +1832,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cone (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a99c3a67051f2bd40b30e39786fe9524, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1965,9 +1894,33 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2289658749134674442, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: aff1c432e7952744a918788fc236356d, type: 3}
       propertyPath: m_Name
       value: Safety Rail (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 1356078575517738061, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142387358024287591, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 4463331676693928166, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 8521099289004111592, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2035,6 +1988,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cone_Damaged (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 13b719afeb8343d4c9024a375cf67ded, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2093,9 +2050,33 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2289658749134674442, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: aff1c432e7952744a918788fc236356d, type: 3}
       propertyPath: m_Name
       value: Safety Rail (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 1356078575517738061, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142387358024287591, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 4463331676693928166, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 8521099289004111592, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2155,9 +2136,33 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2289658749134674442, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: aff1c432e7952744a918788fc236356d, type: 3}
       propertyPath: m_Name
       value: Safety Rail (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 1356078575517738061, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142387358024287591, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 4463331676693928166, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 8521099289004111592, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2217,9 +2222,33 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2289658749134674442, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: aff1c432e7952744a918788fc236356d, type: 3}
       propertyPath: m_Name
       value: Safety Rail (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 1356078575517738061, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142387358024287591, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 4463331676693928166, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 8521099289004111592, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2279,9 +2308,33 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2289658749134674442, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: aff1c432e7952744a918788fc236356d, type: 3}
       propertyPath: m_Name
       value: Safety Rail (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 1356078575517738061, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142387358024287591, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 4463331676693928166, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 8521099289004111592, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2341,9 +2394,33 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2289658749134674442, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: aff1c432e7952744a918788fc236356d, type: 3}
       propertyPath: m_Name
       value: Safety Rail (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 1356078575517738061, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142387358024287591, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 4463331676693928166, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 8521099289004111592, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2382,7 +2459,7 @@ Transform:
   m_GameObject: {fileID: 1394891854}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1, z: 26}
+  m_LocalPosition: {x: 0, y: 1, z: 24}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2529,6 +2606,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cone_Damaged (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 13b719afeb8343d4c9024a375cf67ded, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2587,9 +2668,33 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2289658749134674442, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: aff1c432e7952744a918788fc236356d, type: 3}
       propertyPath: m_Name
       value: Safety Rail (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 1356078575517738061, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142387358024287591, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 4463331676693928166, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 8521099289004111592, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2657,6 +2762,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cone (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a99c3a67051f2bd40b30e39786fe9524, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2667,124 +2776,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: a99c3a67051f2bd40b30e39786fe9524, type: 3}
   m_PrefabInstance: {fileID: 1499507741}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &1524931036
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1524931037}
-  - component: {fileID: 1524931039}
-  - component: {fileID: 1524931038}
-  m_Layer: 0
-  m_Name: Point Light (1)
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1524931037
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1524931036}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1, z: 16}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 70013030}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1524931038
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1524931036}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Version: 3
-  m_UsePipelineSettings: 1
-  m_AdditionalLightsShadowResolutionTier: 2
-  m_LightLayerMask: 1
-  m_RenderingLayers: 1
-  m_CustomShadowLayers: 0
-  m_ShadowLayerMask: 1
-  m_ShadowRenderingLayers: 1
-  m_LightCookieSize: {x: 1, y: 1}
-  m_LightCookieOffset: {x: 0, y: 0}
-  m_SoftShadowQuality: 0
---- !u!108 &1524931039
-Light:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1524931036}
-  m_Enabled: 1
-  serializedVersion: 10
-  m_Type: 2
-  m_Shape: 0
-  m_Color: {r: 0.8117647, g: 0.8117647, b: 0.7411765, a: 1}
-  m_Intensity: 3
-  m_Range: 10
-  m_SpotAngle: 30
-  m_InnerSpotAngle: 21.80208
-  m_CookieSize: 10
-  m_Shadows:
-    m_Type: 0
-    m_Resolution: -1
-    m_CustomResolution: -1
-    m_Strength: 1
-    m_Bias: 0.05
-    m_NormalBias: 0.4
-    m_NearPlane: 0.2
-    m_CullingMatrixOverride:
-      e00: 1
-      e01: 0
-      e02: 0
-      e03: 0
-      e10: 0
-      e11: 1
-      e12: 0
-      e13: 0
-      e20: 0
-      e21: 0
-      e22: 1
-      e23: 0
-      e30: 0
-      e31: 0
-      e32: 0
-      e33: 1
-    m_UseCullingMatrixOverride: 0
-  m_Cookie: {fileID: 0}
-  m_DrawHalo: 0
-  m_Flare: {fileID: 0}
-  m_RenderMode: 0
-  m_CullingMask:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_RenderingLayerMask: 1
-  m_Lightmapping: 4
-  m_LightShadowCasterMode: 0
-  m_AreaSize: {x: 1, y: 1}
-  m_BounceIntensity: 1
-  m_ColorTemperature: 6570
-  m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
-  m_UseBoundingSphereOverride: 0
-  m_UseViewFrustumForShadowCasterCull: 1
-  m_ShadowRadius: 0
-  m_ShadowAngle: 0
 --- !u!1001 &1533607460
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2840,6 +2831,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: a99c3a67051f2bd40b30e39786fe9524, type: 3}
       propertyPath: m_Name
       value: Cone (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a99c3a67051f2bd40b30e39786fe9524, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2919,7 +2914,7 @@ Light:
   m_Type: 0
   m_Shape: 0
   m_Color: {r: 0.8117647, g: 0.8117647, b: 0.7411765, a: 1}
-  m_Intensity: 3
+  m_Intensity: 5
   m_Range: 10
   m_SpotAngle: 90
   m_InnerSpotAngle: 50
@@ -3065,124 +3060,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4a9dca6d0e527a44d91a9bc5bae1b65f, type: 3}
---- !u!1 &1649321809
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1649321810}
-  - component: {fileID: 1649321812}
-  - component: {fileID: 1649321811}
-  m_Layer: 0
-  m_Name: Point Light (3)
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1649321810
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1649321809}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1, z: 21}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 70013030}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1649321811
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1649321809}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Version: 3
-  m_UsePipelineSettings: 1
-  m_AdditionalLightsShadowResolutionTier: 2
-  m_LightLayerMask: 1
-  m_RenderingLayers: 1
-  m_CustomShadowLayers: 0
-  m_ShadowLayerMask: 1
-  m_ShadowRenderingLayers: 1
-  m_LightCookieSize: {x: 1, y: 1}
-  m_LightCookieOffset: {x: 0, y: 0}
-  m_SoftShadowQuality: 0
---- !u!108 &1649321812
-Light:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1649321809}
-  m_Enabled: 1
-  serializedVersion: 10
-  m_Type: 2
-  m_Shape: 0
-  m_Color: {r: 0.8117647, g: 0.8117647, b: 0.7411765, a: 1}
-  m_Intensity: 3
-  m_Range: 10
-  m_SpotAngle: 30
-  m_InnerSpotAngle: 21.80208
-  m_CookieSize: 10
-  m_Shadows:
-    m_Type: 0
-    m_Resolution: -1
-    m_CustomResolution: -1
-    m_Strength: 1
-    m_Bias: 0.05
-    m_NormalBias: 0.4
-    m_NearPlane: 0.2
-    m_CullingMatrixOverride:
-      e00: 1
-      e01: 0
-      e02: 0
-      e03: 0
-      e10: 0
-      e11: 1
-      e12: 0
-      e13: 0
-      e20: 0
-      e21: 0
-      e22: 1
-      e23: 0
-      e30: 0
-      e31: 0
-      e32: 0
-      e33: 1
-    m_UseCullingMatrixOverride: 0
-  m_Cookie: {fileID: 0}
-  m_DrawHalo: 0
-  m_Flare: {fileID: 0}
-  m_RenderMode: 0
-  m_CullingMask:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_RenderingLayerMask: 1
-  m_Lightmapping: 4
-  m_LightShadowCasterMode: 0
-  m_AreaSize: {x: 1, y: 1}
-  m_BounceIntensity: 1
-  m_ColorTemperature: 6570
-  m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
-  m_UseBoundingSphereOverride: 0
-  m_UseViewFrustumForShadowCasterCull: 1
-  m_ShadowRadius: 0
-  m_ShadowAngle: 0
 --- !u!1001 &1660159205
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3231,9 +3108,33 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2289658749134674442, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: aff1c432e7952744a918788fc236356d, type: 3}
       propertyPath: m_Name
       value: Safety Rail (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 1356078575517738061, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142387358024287591, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 4463331676693928166, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 8521099289004111592, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3991,9 +3892,33 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2289658749134674442, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: aff1c432e7952744a918788fc236356d, type: 3}
       propertyPath: m_Name
       value: Safety Rail (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 1356078575517738061, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142387358024287591, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 4463331676693928166, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 8521099289004111592, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4005,63 +3930,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: aff1c432e7952744a918788fc236356d, type: 3}
   m_PrefabInstance: {fileID: 1698307455}
   m_PrefabAsset: {fileID: 0}
---- !u!1001 &1702612798
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: -8679921383154817045, guid: de5e8897ecd2a1e4ebb68f3fcfd43f3c, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -13.36
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: de5e8897ecd2a1e4ebb68f3fcfd43f3c, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.00000023841858
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: de5e8897ecd2a1e4ebb68f3fcfd43f3c, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -1.47
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: de5e8897ecd2a1e4ebb68f3fcfd43f3c, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: de5e8897ecd2a1e4ebb68f3fcfd43f3c, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: de5e8897ecd2a1e4ebb68f3fcfd43f3c, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: de5e8897ecd2a1e4ebb68f3fcfd43f3c, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: de5e8897ecd2a1e4ebb68f3fcfd43f3c, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: de5e8897ecd2a1e4ebb68f3fcfd43f3c, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: de5e8897ecd2a1e4ebb68f3fcfd43f3c, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: de5e8897ecd2a1e4ebb68f3fcfd43f3c, type: 3}
-      propertyPath: m_Name
-      value: Gravel Pile
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: de5e8897ecd2a1e4ebb68f3fcfd43f3c, type: 3}
 --- !u!1001 &1718041566
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4118,9 +3986,29 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: -0.019
       objectReference: {fileID: 0}
+    - target: {fileID: -2289658749134674442, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: aff1c432e7952744a918788fc236356d, type: 3}
       propertyPath: m_Name
       value: Safety Rail (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 1356078575517738061, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142387358024287591, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 4463331676693928166, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects:
@@ -4181,9 +4069,33 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2289658749134674442, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: aff1c432e7952744a918788fc236356d, type: 3}
       propertyPath: m_Name
       value: Safety Rail
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 1356078575517738061, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142387358024287591, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 4463331676693928166, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 8521099289004111592, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4243,9 +4155,33 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2289658749134674442, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: aff1c432e7952744a918788fc236356d, type: 3}
       propertyPath: m_Name
       value: Safety Rail (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 1356078575517738061, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142387358024287591, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 4463331676693928166, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 8521099289004111592, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4312,6 +4248,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: a99c3a67051f2bd40b30e39786fe9524, type: 3}
       propertyPath: m_Name
       value: Cone
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a99c3a67051f2bd40b30e39786fe9524, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4511,7 +4451,7 @@ Light:
   m_Type: 0
   m_Shape: 0
   m_Color: {r: 0.8117647, g: 0.8117647, b: 0.7411765, a: 1}
-  m_Intensity: 100
+  m_Intensity: 125
   m_Range: 20
   m_SpotAngle: 100
   m_InnerSpotAngle: 90
@@ -4609,9 +4549,33 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2289658749134674442, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: aff1c432e7952744a918788fc236356d, type: 3}
       propertyPath: m_Name
       value: Safety Rail (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 1356078575517738061, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142387358024287591, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 4463331676693928166, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 8521099289004111592, guid: aff1c432e7952744a918788fc236356d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 68
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4678,6 +4642,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 08fe54bde6520a54b87b4ee631f47926, type: 3}
       propertyPath: m_Name
       value: Plaque
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 08fe54bde6520a54b87b4ee631f47926, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -31356,11 +31324,11 @@ SceneRoots:
   - {fileID: 545308578}
   - {fileID: 2135923444}
   - {fileID: 358696389}
-  - {fileID: 1702612798}
   - {fileID: 330259950}
   - {fileID: 767212600}
   - {fileID: 955195}
-  - {fileID: 1940502803}
   - {fileID: 1625433060}
   - {fileID: 2075117767}
   - {fileID: 280119026}
+  - {fileID: 1940502803}
+  - {fileID: 689664315}
