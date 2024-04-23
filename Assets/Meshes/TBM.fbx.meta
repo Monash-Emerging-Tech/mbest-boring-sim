@@ -49,11 +49,6 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: MAT_Red
     second: {fileID: 2100000, guid: 062d34e7eff7a2841a501425778e1567, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: standardSurface1
-    second: {fileID: 2100000, guid: 1a5dfa8293d5b5b49afe62c94e6dc848, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
