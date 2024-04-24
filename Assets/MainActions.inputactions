@@ -1,0 +1,54 @@
+{
+    "name": "MainActions",
+    "maps": [
+        {
+            "name": "Main",
+            "id": "de74eed8-283d-4b9d-b3d8-5fa9910211f6",
+            "actions": [
+                {
+                    "name": "ShowHideBody",
+                    "type": "Button",
+                    "id": "6a3526c2-2deb-4977-a71b-d19ab5f4c193",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Animation",
+                    "type": "Button",
+                    "id": "629ecf76-ba09-4298-9a95-e2a84288fbc1",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "4434620f-4c3e-4727-9657-cffe66adcce1",
+                    "path": "<XRController>{RightHand}/{TriggerButton}",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ShowHideBody",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "25be0919-1a64-4742-b0cc-b0436c069bae",
+                    "path": "<XRController>{LeftHand}/{TriggerButton}",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Animation",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
