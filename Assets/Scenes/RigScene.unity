@@ -2154,7 +2154,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: b81b1f08fc7ded6409dee5eb74b49060, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: b81b1f08fc7ded6409dee5eb74b49060, type: 3}
       propertyPath: m_LocalPosition.y
@@ -2162,7 +2162,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: b81b1f08fc7ded6409dee5eb74b49060, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0
+      value: 2.38
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: b81b1f08fc7ded6409dee5eb74b49060, type: 3}
       propertyPath: m_LocalRotation.w
@@ -5360,6 +5360,14 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8044410031536263460, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 5edcad447bdeb4b4b94efab5eb25d429, type: 2}
+    - target: {fileID: -5159493593141152643, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b7cbbedd51c5206468617a28eda8c0c5, type: 2}
     - target: {fileID: 919132149155446097, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
       propertyPath: m_Name
       value: TBM_New
@@ -5874,7 +5882,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1982425656}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1feeaf7b34c5f464ab87418ed498e0f9, type: 3}
   m_Name: 
