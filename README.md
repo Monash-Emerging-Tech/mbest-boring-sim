@@ -54,6 +54,9 @@ This build is for an upcoming showcase and also serves as a reusable demo for fu
   - XR Interaction Toolkit v2.5.4
   - XR Management v4.4.0
   - OpenXR Plugin v1.11.0
+- **Supported Headsets**
+  - **Oculus Quest (1 & 2)** via OpenXR (our primary dev/test devices)
+  - **Other OpenXR-compatible** headsets should work, though controller bindings may need tweaking.
 
 ### Installing
 
