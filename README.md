@@ -71,14 +71,14 @@ This build is for an upcoming showcase and also serves as a reusable demo for fu
 
 2. **Restore packages**
 
-- Unity will detect the Packages/manifest.json file and auto-install everything.
-- If you see any missing packages under Window > Package Manager, hit Install on the ones called out in Dependencies.
+- Unity will detect the **Packages/manifest.json** file and auto-install everything.
+- If you see any missing packages under **Window** > **Package Manager**, hit Install on the ones called out in Dependencies.
 
 ### Executing program
 
 1. **Open Unity Project**
 
-- In the Project window, navigate Assets>Scenes and double click RigScene.unity.
+- In the Project window, navigate **Assets** > **Scenes** and double click **RigScene.unity**.
 
 2. **Press Play in the Editor**
 
