@@ -1,38 +1,116 @@
 # MBest Boring Simulator
 
-A virtualisation of Monash BESTs tunnel boring tool into VR. Primarily for showcasing purposes and display of VR and the tunnel boring tools capabilities. 
+A virtualisation of Monash BEST's tunnel boring tool into VR. Primarily for showcasing purposes and display of VR and the tunnel boring tool's capabilities.
 
-The model (Gaia) has 3 layers
+[![Unity 2022.3.36f1](https://img.shields.io/badge/Unity-2022.3.36f1-blue)](https://unity.com/)
+
+---
+
+## Table of Contents
+
+- [Description](#description)
+- [Features](#features)
+- [Getting Started](#getting-started)
+  - [Dependencies](#dependencies)
+  - [Installing](#installing)
+  - [Executing programnning](#executing--programnning)
+- [Project Structure](#project-structure)
+- [Help](#help)
+- [Version History](#version-history)
+
+---
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+MBest Boring Simulator is a Unity-powered VR experience that virtualises Monash BEST’s tunnel boring machine ("Gaia 1").  
+Visitors can pick up the model, spin it, toggle machine animations on/off, and view its three distinct layers, much like toggling floors in Google Maps.
+This build is for an upcoming showcase and also serves as a reusable demo for future MBEST and MNET collaborations.
+
+---
+
+## Features
+
+- **Layered Model**  
+  Showcase the 3 layers of "Gaia 1".
+- **Interactive Animations**  
+  Machine animations which can be triggered on/off by the user.
+- **Grab & Inspect**  
+  Pick up, move, and spin the model using VR controllers.
+- **Performance-Optimised**  
+  Optimised mesh complexity so it runs smoothly on VR headsets.
+- **Toggle Views**  
+  Click UI buttons to show/hide individual layers (user can select the layer they wish to view).
+
+---
 
 ## Getting Started
 
 ### Dependencies
 
-* Unity version 2022.3.36f1
+- **Unity Editor**: 2022.3.36f1
+- **XR Interaction Toolkit**
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+1. **Clone the repo**
+
+```bash
+   git clone https://github.com/Monash-Emerging-Tech/mbest-boring-sim.git
+```
+
+2. **Open in Unity Hub**
+
+- Click Add, navigate to the cloned folder.
+- Select Unity 2022.3.36f1 (or install if missing).
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
+- Open Unity Project.
+- Press Play in the Editor.
+- Put on your VR headset and grab the controllers.
+
+---
+
+## Project Structure
+
 ```
-code blocks for commands
+mbest-boring-sim/
+├── Assets/
+│   ├── Decals/
+│   ├── Materials/
+│   ├── MBEST/
+│   ├── Meshes/
+│   ├── Scenes/             # .unity scenes
+│   ├── Skyboxes/
+│   ├── TextMesh Pro/
+│   ├── Videos/
+│   ├── XR/
+│   └── XRI/
+├── Library/
+├── Packages/
+│   ├── manifest.json
+│   └── packages-lock.json
+├── ProjectSettings/
+├── Temp/
+├── UserSettings/
+├── .gitignore
+├── mbest-boring-sim.sln
+├── Assembly-CSSharp.csproj
+├── Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj
+├── UpgradeLog.htm
+└── README.md               # ← you are here
 ```
+
+---
 
 ## Help
 
-Any advice for common problems or issues.
-```
-command to run if program contains helper info
-```
+- **Missing packages:** Open **Window** > **Package Manager**, search for XR Interaction Toolkit and click Install.
+
+---
 
 ## Version History
 
+v1.0.0
+
+---
