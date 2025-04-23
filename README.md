@@ -1,6 +1,6 @@
 # MBest Boring Simulator
 
-A virtualisation of Monash BESTs tunnel boring tool into VR. Primarily for showcasing purposes and display of VR and the tunnel boring tools capabilities.
+A virtualisation of Monash BEST's tunnel boring tool into VR. Primarily for showcasing purposes and display of VR and the tunnel boring tool's capabilities.
 
 [![Unity 2022.3.36f1](https://img.shields.io/badge/Unity-2022.3.36f1-blue)](https://unity.com/)
 
@@ -23,7 +23,7 @@ A virtualisation of Monash BESTs tunnel boring tool into VR. Primarily for showc
 ## Description
 
 MBest Boring Simulator is a Unity-powered VR experience that virtualises Monash BEST’s tunnel boring machine ("Gaia 1").  
-Visitors can pick up the model, spin it, toggle machine animations on/off, and view its three distinct layers—much like toggling floors in Google Maps.
+Visitors can pick up the model, spin it, toggle machine animations on/off, and view its three distinct layers, much like toggling floors in Google Maps.
 This build is for an upcoming showcase and also serves as a reusable demo for future MBEST and MNET collaborations.
 
 ---
@@ -78,7 +78,7 @@ mbest-boring-sim/
 ├── Assets/
 │   ├── Decals/
 │   ├── Materials/
-│   ├── MBEST/              # Materials Provided by MBEST
+│   ├── MBEST/
 │   ├── Meshes/
 │   ├── Scenes/             # .unity scenes
 │   ├── Skyboxes/
@@ -105,7 +105,7 @@ mbest-boring-sim/
 
 ## Help
 
-- **CMissing packages:** Open **Window** > **Package Manager**, search for XR Interaction Toolkit and click Install.
+- **Missing packages:** Open **Window** > **Package Manager**, search for XR Interaction Toolkit and click Install.
 
 ---
 
