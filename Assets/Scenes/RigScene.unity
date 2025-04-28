@@ -6029,14 +6029,94 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8267125209157008460, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
+      propertyPath: m_Name
+      value: Lining Deployment System Housing
+      objectReference: {fileID: 0}
     - target: {fileID: -8044410031536263460, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 5edcad447bdeb4b4b94efab5eb25d429, type: 2}
+    - target: {fileID: -8042536953555789488, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
+      propertyPath: m_Name
+      value: Lining Pusher
+      objectReference: {fileID: 0}
+    - target: {fileID: -7924681474802850081, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
+      propertyPath: m_Name
+      value: Stewart Platform Linear Actuators Housing
+      objectReference: {fileID: 0}
+    - target: {fileID: -7613813030736844325, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
+      propertyPath: m_Name
+      value: Lining Deployment System Servo Motor
+      objectReference: {fileID: 0}
+    - target: {fileID: -7405226957001845270, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
+      propertyPath: m_Name
+      value: Lining Deployment System Servo Power Wire Orange
+      objectReference: {fileID: 0}
+    - target: {fileID: -7381485319409738779, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
+      propertyPath: m_Name
+      value: Misc Welds 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7176574064794734180, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
+      propertyPath: m_Name
+      value: Lining Deployment Support Plate
+      objectReference: {fileID: 0}
+    - target: {fileID: -7012761806330448712, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
+      propertyPath: m_Name
+      value: Plate 1 holes
+      objectReference: {fileID: 0}
+    - target: {fileID: -6605440448192694338, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
+      propertyPath: m_Name
+      value: Lining Deployment System Servo Power Wire Red
+      objectReference: {fileID: 0}
+    - target: {fileID: -6151612187053216240, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
+      propertyPath: m_Name
+      value: Excavation Chamber 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -6068063164638076441, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
+      propertyPath: m_Name
+      value: Gear Housing (Cutter Head) Holes 2
+      objectReference: {fileID: 0}
     - target: {fileID: -5159493593141152643, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: b7cbbedd51c5206468617a28eda8c0c5, type: 2}
+    - target: {fileID: -4480834773460290847, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
+      propertyPath: m_Name
+      value: Excavation Chamber 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -4176730621875666330, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
+      propertyPath: m_Name
+      value: Cutter Head Main Gears
+      objectReference: {fileID: 0}
+    - target: {fileID: -2166554519781927896, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
+      propertyPath: m_Name
+      value: Cutter Head Support Plate 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -2016019849766965004, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
+      propertyPath: m_Name
+      value: Cutter Head Support Plate 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -1459301305759598431, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
+      propertyPath: m_Name
+      value: Lining Deployment System Servo Power Wiring Internals
+      objectReference: {fileID: 0}
+    - target: {fileID: -946640087644204650, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
+      propertyPath: m_Name
+      value: 'Cutter Head Skin '
+      objectReference: {fileID: 0}
+    - target: {fileID: -946640087644204650, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 51116577061622604, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
+      propertyPath: m_Name
+      value: Cutter Head Gear
+      objectReference: {fileID: 0}
+    - target: {fileID: 312354172420507596, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
+      propertyPath: m_Name
+      value: Plate 1
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
       propertyPath: m_Name
       value: TBM_New
@@ -6044,6 +6124,82 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1669299809862917610, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
+      propertyPath: m_Name
+      value: Stewart Platform Linear Actuator Pistons
+      objectReference: {fileID: 0}
+    - target: {fileID: 1871646349789625566, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
+      propertyPath: m_Name
+      value: Stepper Motors
+      objectReference: {fileID: 0}
+    - target: {fileID: 2811575237997079584, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
+      propertyPath: m_Name
+      value: Lining Deployment Motors
+      objectReference: {fileID: 0}
+    - target: {fileID: 3284498293743992701, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
+      propertyPath: m_Name
+      value: Lining Deployment System Deplyment Gear
+      objectReference: {fileID: 0}
+    - target: {fileID: 3325434161182094779, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
+      propertyPath: m_Name
+      value: Gear Housing (Cutter Head) Holes
+      objectReference: {fileID: 0}
+    - target: {fileID: 3755850221841097614, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
+      propertyPath: m_Name
+      value: Stewart Platform Linear Actuators
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106999104621901321, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
+      propertyPath: m_Name
+      value: Misc Welds
+      objectReference: {fileID: 0}
+    - target: {fileID: 4533640101498444880, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
+      propertyPath: m_Name
+      value: Lining Deployment System Servo Drive Gear
+      objectReference: {fileID: 0}
+    - target: {fileID: 4629018952399054856, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
+      propertyPath: m_Name
+      value: Cutter Head Support Gear Holes
+      objectReference: {fileID: 0}
+    - target: {fileID: 5744689948013752736, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
+      propertyPath: m_Name
+      value: Excavation Chamber Gasket
+      objectReference: {fileID: 0}
+    - target: {fileID: 5915487405989374427, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
+      propertyPath: m_Name
+      value: 'Lining Deployment System Servo Power Wire - Yellow '
+      objectReference: {fileID: 0}
+    - target: {fileID: 6801696990942293453, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
+      propertyPath: m_Name
+      value: Cutter Head Support Gear
+      objectReference: {fileID: 0}
+    - target: {fileID: 7375240217042458920, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
+      propertyPath: m_Name
+      value: Lining Deployment Motor Adaptor
+      objectReference: {fileID: 0}
+    - target: {fileID: 7822681962806371585, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
+      propertyPath: m_Name
+      value: Cutter Head Gear housing
+      objectReference: {fileID: 0}
+    - target: {fileID: 7822681962806371585, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7831904703799353494, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
+      propertyPath: m_Name
+      value: Cutter Head Support Head
+      objectReference: {fileID: 0}
+    - target: {fileID: 7880415998448151207, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
+      propertyPath: m_Name
+      value: Lining Deployment Segments
+      objectReference: {fileID: 0}
+    - target: {fileID: 8224441004249500699, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
+      propertyPath: m_Name
+      value: Cutter Head
+      objectReference: {fileID: 0}
+    - target: {fileID: 8225109841688824250, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
+      propertyPath: m_Name
+      value: Lining Deployment System Servo Labels
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7196,6 +7352,6 @@ SceneRoots:
   - {fileID: 1045004479}
   - {fileID: 2030832038}
   - {fileID: 394779914}
-  - {fileID: 1755294608}
   - {fileID: 839758421}
   - {fileID: 281727204}
+  - {fileID: 1755294608}
