@@ -3171,7 +3171,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: b81b1f08fc7ded6409dee5eb74b49060, type: 3}
       propertyPath: m_Name
-      value: TBM
+      value: TBM_Old
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: b81b1f08fc7ded6409dee5eb74b49060, type: 3}
       propertyPath: m_IsActive
@@ -3675,11 +3675,6 @@ PrefabInstance:
       insertIndex: -1
       addedObject: {fileID: 1086913694}
   m_SourcePrefab: {fileID: 100100000, guid: b81b1f08fc7ded6409dee5eb74b49060, type: 3}
---- !u!1 &839758422 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: -6643797220894188050, guid: b81b1f08fc7ded6409dee5eb74b49060, type: 3}
-  m_PrefabInstance: {fileID: 839758421}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &891019539
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5396,6 +5391,11 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: a99c3a67051f2bd40b30e39786fe9524, type: 3}
   m_PrefabInstance: {fileID: 1499507741}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1515848801 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -946640087644204650, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
+  m_PrefabInstance: {fileID: 1755294608}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1533607460
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6931,7 +6931,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rigAnim: {fileID: 0}
-  bodyBase: {fileID: 839758422}
+  bodyBase: {fileID: 1515848801}
   ShowHideBody: {fileID: -7129300537900881987, guid: 60559ceeaf9fae7418168b65204b0b36, type: 3}
   Animation: {fileID: -8110737314253908472, guid: 60559ceeaf9fae7418168b65204b0b36, type: 3}
   ActionAsset: {fileID: -944628639613478452, guid: 60559ceeaf9fae7418168b65204b0b36, type: 3}
