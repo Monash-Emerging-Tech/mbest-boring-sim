@@ -6041,6 +6041,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Lining Pusher
       objectReference: {fileID: 0}
+    - target: {fileID: -7938276646143921641, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: -876546973899608171, guid: 5e1b0ce77ab7da3459592923101bd475, type: 3}
     - target: {fileID: -7924681474802850081, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
       propertyPath: m_Name
       value: Stewart Platform Linear Actuators Housing
