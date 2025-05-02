@@ -5775,7 +5775,7 @@ PrefabInstance:
     - target: {fileID: -7938276646143921641, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 9a49055951470784ca50c5280d2b17ad, type: 2}
+      objectReference: {fileID: 2100000, guid: 6772461740be5c041babb77c1fc1b5a8, type: 2}
     - target: {fileID: -7924681474802850081, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
       propertyPath: m_Name
       value: Stewart Platform Linear Actuators Housing
@@ -5788,6 +5788,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Lining Deployment System Servo Motor
       objectReference: {fileID: 0}
+    - target: {fileID: -7514091714026471788, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6772461740be5c041babb77c1fc1b5a8, type: 2}
     - target: {fileID: -7405226957001845270, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
       propertyPath: m_Name
       value: Lining Deployment System Servo Power Wire Orange
@@ -5872,6 +5876,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Lining Deployment System Servo Power Wiring Internals
       objectReference: {fileID: 0}
+    - target: {fileID: -1134449577703325010, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6772461740be5c041babb77c1fc1b5a8, type: 2}
     - target: {fileID: -946640087644204650, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
       propertyPath: m_Name
       value: 'Cutter Head Skin '
@@ -5888,6 +5896,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 110680154611679708, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6772461740be5c041babb77c1fc1b5a8, type: 2}
     - target: {fileID: 312354172420507596, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
       propertyPath: m_Name
       value: Plate 1
@@ -5896,6 +5908,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 627349225807978209, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6772461740be5c041babb77c1fc1b5a8, type: 2}
     - target: {fileID: 919132149155446097, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
       propertyPath: m_Name
       value: TBM_New
@@ -5940,6 +5956,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3612687919284105231, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6772461740be5c041babb77c1fc1b5a8, type: 2}
     - target: {fileID: 3755850221841097614, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
       propertyPath: m_Name
       value: Stewart Platform Linear Actuators
@@ -5980,6 +6000,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: 'Lining Deployment System Servo Power Wire - Yellow '
       objectReference: {fileID: 0}
+    - target: {fileID: 6054278459901474840, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6772461740be5c041babb77c1fc1b5a8, type: 2}
     - target: {fileID: 6801696990942293453, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
       propertyPath: m_Name
       value: Cutter Head Support Gear
@@ -5988,6 +6012,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 7245396177223683187, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6772461740be5c041babb77c1fc1b5a8, type: 2}
     - target: {fileID: 7375240217042458920, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
       propertyPath: m_Name
       value: Lining Deployment Motor Adaptor
