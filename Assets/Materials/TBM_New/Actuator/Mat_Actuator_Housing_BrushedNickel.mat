@@ -102,10 +102,10 @@ Material:
     - _Mettalic: 1
     - _Mode: 0
     - _Multiply: 1
-    - _NoiseScale: 100
+    - _NoiseScale: 18
     - _OcclusionStrength: 1
     - _Parallax: 0.02
-    - _Power: 1
+    - _Power: 0
     - _QueueControl: 0
     - _QueueOffset: 0
     - _ReceiveShadows: 1

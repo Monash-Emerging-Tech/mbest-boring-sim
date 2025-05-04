@@ -5767,7 +5767,7 @@ PrefabInstance:
     - target: {fileID: -8044410031536263460, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 5edcad447bdeb4b4b94efab5eb25d429, type: 2}
+      objectReference: {fileID: 2100000, guid: 4d0572e6d1025584a9a9a6239669051d, type: 2}
     - target: {fileID: -8042536953555789488, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
       propertyPath: m_Name
       value: Lining Pusher
@@ -5775,7 +5775,7 @@ PrefabInstance:
     - target: {fileID: -7938276646143921641, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 6772461740be5c041babb77c1fc1b5a8, type: 2}
+      objectReference: {fileID: 2100000, guid: d1c68d4e328141747bde9ae90a1170b6, type: 2}
     - target: {fileID: -7924681474802850081, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
       propertyPath: m_Name
       value: Stewart Platform Linear Actuators Housing
@@ -5840,6 +5840,10 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: b7cbbedd51c5206468617a28eda8c0c5, type: 2}
+    - target: {fileID: -5149997015901313009, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 8e07f2f156f7c9e45b62838e5370ca4a, type: 2}
     - target: {fileID: -4480834773460290847, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
       propertyPath: m_Name
       value: Excavation Chamber 2
@@ -5988,6 +5992,14 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 4691314192161076484, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 67a27a3af66ce18418f69d8be7806b30, type: 2}
+    - target: {fileID: 5077891110950952511, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4d0572e6d1025584a9a9a6239669051d, type: 2}
     - target: {fileID: 5744689948013752736, guid: 96ec960b9c2641244b8bf85e3d6a708f, type: 3}
       propertyPath: m_Name
       value: Excavation Chamber Gasket
