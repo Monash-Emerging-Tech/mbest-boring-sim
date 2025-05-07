@@ -38,6 +38,17 @@
                 },
                 {
                     "name": "",
+                    "id": "a57eebf2-ecbf-40d2-8b47-d62d3cf9d152",
+                    "path": "<XRController>{RightHand}/{PrimaryTrigger}",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ShowHideBody",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
                     "id": "25be0919-1a64-4742-b0cc-b0436c069bae",
                     "path": "<XRController>{LeftHand}/{TriggerButton}",
                     "interactions": "",
